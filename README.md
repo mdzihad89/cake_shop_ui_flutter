@@ -1,16 +1,10 @@
 # cake_shop_ui
 
-A new Flutter project.
+## Preview 👇
 
-## Getting Started
+https://user-images.githubusercontent.com/107878396/200057389-516bdef3-d6ed-44be-b0b9-592e9d096f48.mp4
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⚙️ Built with Amazing Tools
+- [Flutter](https://flutter.dev/) - Beautiful native apps in record time.
+- ClipPath
